@@ -1,6 +1,9 @@
 version: 1
 hooks:
 
+  break:
+    pelas: true
+    
   # Requires that, on a PR, all files changed and matching
   # an entry from paths must be loadable, valid YAML
   yml_validation:
