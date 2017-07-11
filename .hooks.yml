@@ -13,5 +13,5 @@ hooks:
     amount: 2
 
   # Silly check that always passes
-#  always_pass:
-#    nice: "yup"
+  always_pass:
+    nice: "yup"
